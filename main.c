@@ -1,6 +1,6 @@
 
 /*
- * Name: OrugantiPrem Sai
+ * Name:  MIRYALA VAMSHI
  * Description: Project on Car Black Box
  * 
  * By considering todays busy life, every one wants to reach the destination as soon as possible 
